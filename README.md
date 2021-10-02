@@ -1,0 +1,2 @@
+# myGit
+Bismillah lancar
