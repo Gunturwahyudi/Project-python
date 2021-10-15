@@ -1,3 +1,8 @@
+'''
+Library yg dibutuhkan :
+- Tkinter : install tkinter terlebih dahulu dengan cara pergi ke terminal/CMD, lalu ketikkan "pip install tkinter"(tanpa tanda petik).
+- Pygame : install pygame terlebih dahulu dengan cara pergi ke terminal/CMD, lalu ketikkan "pip install pygame"(tanpa tanda petik).
+'''
 import threading
 import random
 import os.path
