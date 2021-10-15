@@ -1,6 +1,6 @@
 import threading
 import random
-import os.path
+import os.pat
 from tkinter import *
 import pygame
 from pygame import mixer
