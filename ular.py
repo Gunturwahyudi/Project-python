@@ -1,5 +1,5 @@
 import threading
-import random
+import rand
 import os.path
 from tkinter import *
 import pygame
